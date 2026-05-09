@@ -3,3 +3,4 @@
 | --- | --- | --- | --- |
 | 1 | Test Project | Sandbox project for software development. No information is stored here. | [Main Repo](https://github.com/M0WUT/p0001_test-project)
 | 2 | Kicad Template Project | Template project that new Kicad projects will be based on. | [Main Repo](https://github.com/M0WUT/p0002_kicad-template-project)
+| 3 | Wild Bull | test | [Main Repo](https://github.com/M0WUT/p0003_wild-bull)
