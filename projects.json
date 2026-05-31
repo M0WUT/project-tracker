@@ -13,5 +13,10 @@
         "name": "Argonaut",
         "description": "Project Management tooling for automatic Github based workflow",
         "url": "https://github.com/m0wut/p0003_argonaut"
+    },
+    "P0004": {
+        "name": "Testkit Generic",
+        "description": "Designs for rackmount testkit that will be reused across multiple projects",
+        "url": "https://github.com/m0wut/p0004_testkit-generic"
     }
 }
