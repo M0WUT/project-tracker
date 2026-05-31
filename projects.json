@@ -3,5 +3,10 @@
         "name": "Test Project",
         "description": "Project used for testing during software development. No actual data is stored here.",
         "url": "https://github.com/m0wut/p0001_test-project"
+    },
+    "P0002": {
+        "name": "KiCad workflow",
+        "description": "Tooling designed to assist with creation of KiCad projects",
+        "url": "https://github.com/m0wut/p0002_kicad-workflow"
     }
 }
