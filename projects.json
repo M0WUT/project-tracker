@@ -26,5 +26,10 @@
         "name": "LCD Board",
         "description": "Test",
         "url": "https://github.com/m0wut/p0005_lcd-board"
+    },
+    "P0006": {
+        "name": "Test Project",
+        "description": "trying one last time",
+        "url": "https://github.com/m0wut/p0006_test-project"
     }
 }

@@ -6,3 +6,4 @@
 | P0003 |  xv | xcxx | [Main Repo](https://github.com/m0wut/p0003_-xv)
 | P0004 | frsfd | ss | [Main Repo](https://github.com/m0wut/p0004_frsfd)
 | P0005 | LCD Board | Test | [Main Repo](https://github.com/m0wut/p0005_lcd-board)
+| P0006 | Test Project | trying one last time | [Main Repo](https://github.com/m0wut/p0006_test-project)
