@@ -1,1 +1,7 @@
-{}
+{
+    "P0001": {
+        "name": "Test Project",
+        "description": "Project used for testing during software development. No actual data is stored here.",
+        "url": "https://github.com/m0wut/p0001_test-project"
+    }
+}
